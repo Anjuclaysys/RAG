@@ -18,7 +18,9 @@ dependencies = [
     "llama-index (>=0.14.15,<0.15.0)",
     "llama-index-vector-stores-qdrant (>=0.9.1,<0.10.0)",
     "llama-index-embeddings-huggingface (>=0.6.1,<0.7.0)",
-    "google-genai (>=1.66.0,<2.0.0)"
+    "google-genai (>=1.66.0,<2.0.0)",
+    "uvicorn (>=0.41.0,<0.42.0)",
+    "fastapi (>=0.135.1,<0.136.0)"
 ]
 
 
